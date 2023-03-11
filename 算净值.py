@@ -69,15 +69,8 @@ r_Top100[fct] =stats_num.reset_index(drop=True)
 r_Top100[fct]
 
 
-# In[2]:
 
 
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jul  5 14:23:47 2019
-
-@author: yjm
-"""
 
 import numpy as np
 import pandas as pd
